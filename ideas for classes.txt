@@ -1,0 +1,257 @@
+Main/Splash
+    Checks for updates etc
+    wiki/updates/patch notes
+
+Main/Home
+    3 chars unlocked / 6 locked
+
+Main/Settings
+    Controls
+        Key Binds
+        Mouse Sense
+    Graphics
+        Post
+        Shadows
+        Etc
+    Edit Hud
+        Simple & Modern
+        Basically uses linting for UI colors
+        Consistent for all menus
+    Logout
+        Brings you back to char select
+    Exit
+        
+Classes
+    Typical Trinity tank/heal/dps
+    3 light, 3 medium, 3 heavy
+    Slight increase in speed based on how light class is.
+
+Gameplay
+    Open world
+    Focus on PvE
+    Borderlands style progression, everyone can join your for your progression, but only them progressing themselves progresses the game
+    Level sync
+    Dungeouns from day 1
+        Matchmaking/autoque
+        Level Dictates which quality of dungeouns can be done
+        Dungeouns are procedurally generated.
+
+    PvP from day 1
+    Sorties/Dailies from day 1
+    Login Rewards
+    Character Customization
+        Dyes are free but need to be unlocked by playing
+    Mounts/Morphs
+        Radial menu to click on Mounts
+    Movement tools
+        Gliding to negate fall damage
+    At reaching max rank you can have 1 ability from a different class.
+
+
+
+Classes
+    Heavy Armor Classes
+        Paladin: A holy warrior who combines martial prowess with divine magic.
+        Berserker: A fierce fighter who channels rage into devastating attacks.
+        Knight: A chivalrous defender who upholds honor and protects the weak.
+
+Medium Armor Classes
+        Ranger: A skilled hunter and tracker who excels in ranged combat and survival.
+        Engineer: A tactical mastermind who uses gadgets and technology in battle.
+        Assassin: A stealthy killer who specializes in swift, lethal strikes.
+
+Light Armor Classes
+        Mage: A master of arcane arts, casting powerful spells from a distance.
+        Necromancer: A dark spellcaster who commands the undead and manipulates life force.
+        Duelist: A nimble fighter specializing in finesse and precision with a rapier.
+
+Weapons
+    Heavy Armor Classes
+        Paladin
+            Sword and Shield
+            Warhammer
+            Greatsword
+
+        Berserker
+            Battle Axe
+            Great Axe
+            Maul
+
+        Knight
+            Longsword
+            Lance
+            Flail
+
+    Medium Armor Classes
+        Ranger
+            Longbow
+            Crossbow
+            Dual Daggers
+
+        Engineer
+            Hand Cannons
+            Mechanical Bow
+            Trap Devices
+
+        Assassin
+            Short Swords
+            Throwing Knives
+            Blowgun
+
+    Light Armor Classes
+        Mage
+            Staff
+            Wand
+            Spellbook (for casting spells)
+
+        Necromancer
+            Grimoire
+            Dagger (for ritual purposes)
+            Bone Staff
+
+        Duelist
+            Rapier
+            Saber
+            Parrying Dagger
+
+You can talk to a person directly but isn't necessary
+
+
+Quests:
+
+    Exploration Quests
+    Players discover hidden locations, lore, and treasures, encouraging them to explore the world in-depth.
+
+    Puzzle Quests
+    These involve solving intricate puzzles or riddles to unlock new areas or gain rewards, adding a layer of challenge and satisfaction.
+
+    Epic Story Quests
+    Quests that are part of a larger narrative arc, with well-developed characters and emotional stakes, making players feel invested in the outcome.
+
+    Co-op Challenges
+    Tasks that require teamwork to complete, such as defeating a powerful boss or navigating a complex dungeon, fostering camaraderie among players.
+
+    Timed Challenges
+    Quests that put players against the clock, adding urgency and excitement as they race to complete objectives.
+
+    Crafting and Resource Gathering
+    These quests allow players to gather materials and create items, offering a sense of accomplishment and enhancing the crafting system.
+
+    Moral Dilemmas
+    Quests that present players with difficult choices that impact the story or world, adding depth and replayability.
+
+    Fetch Quests with a Twist
+    While often seen as mundane, adding unexpected elements, like monsters or environmental hazards, can make these quests more engaging.
+
+    Faction-Based Quests
+    Aligning with different factions or guilds, players can experience unique storylines and benefits based on their choices.
+
+    Environmental Quests
+    Tasks focused on changing or interacting with the environment, like restoring nature or protecting an area from corruption, can feel rewarding and impactful.
+
+    Defense
+
+    Dynamic Events
+
+
+1. Shadow Weaver
+
+Theme: Shadows and Darkness
+Default Attack: Shadow Strike – Strikes with dark energy, dealing damage and healing a portion of Elysia's health.
+Abilities:
+
+    Shadow Pulse
+        Effect: Elysia releases a wave of dark energy that damages all enemies in a large area and applies a debuff that increases damage taken from all sources for a short duration.
+        Cooldown: Short
+
+    Vampiric Torrent
+        Effect: Elysia unleashes a torrent of shadowy energy in a cone, dealing damage to all enemies hit. For each enemy damaged, a percentage of the damage is converted into healing for Elysia and her allies.
+        Cooldown: Medium
+
+    Shadow Realm
+        Effect: Elysia creates a zone of shadows that lasts for several seconds, damaging enemies who enter and reducing their movement speed. Allies standing in the zone gain increased spell power, enhancing their abilities while in the area.
+        Cooldown: Long
+
+    Umbral Cataclysm
+        Effect: Elysia channels dark energy and then releases a massive explosion of shadows at a target location, dealing heavy area damage and stunning enemies caught in the blast. Enemies affected by this ability have their cooldowns increased for a short period.
+        Cooldown: Long
+
+2. Thorn the Battle-Worn Warrior
+
+Weapon: Greatsword
+Default Attack: Cleave – A powerful swing that damages multiple enemies in front of Thorn.
+Abilities:
+
+    Ability 1: Slash N Gash
+        Effect: Multiple hit strikes.
+        Synergy: Each successful strike lowers cool down time for unyielding fury.
+	Cooldown: Short	
+
+   Ability 2: Battle Cry
+        Effect: Thorn shouts a rallying cry, boosting the attack power and morale of nearby allies for a limited time. Buffs Allies, Stuns enemies for 2 seconds
+        Synergy: Allies affected by this ability deal bonus damage, increasing the effectiveness of Elysia’s Elemental Infusion.
+	Cooldown: Medium
+
+    Ability 2: Roar
+        Effect: All enemies target Thorn, drawing their attention and attacks.
+	Synergy: Enemies hit by Roar become more vulnerable to damage for a short duration.
+	Cooldown: Short	
+
+    Ability 4: Unyielding Fury
+        Effect: Thorn enters a state of heightened aggression, increasing his attack speed and granting lifesteal on each hit for a short duration. (Enables Spartan mode)
+        Synergy: Any damage Thorn heals during this ability is shared with nearby allies as a burst of health.
+	Cooldown: Long
+
+3. Seraphina the Radiant Healer
+
+Weapon: Shield and Mace
+Default Attack: Sacred Strike – A quick melee attack that deals damage and heals a small portion of her health.
+Abilities:
+
+    Ability 1: Smite
+        Effect: A divine strike that deals damage to the closest 10 enemies and stuns them briefly and makes them susceptible to damage, a portion of that damage is spread around to other enemies. (like wisps breach surge)
+        Synergy: If used on a stunned enemy from Thorn’s Shield Charge, it triggers a chain reaction, stunning nearby enemies.    
+	Cooldown: Short
+	
+    Ability 2: Divine Barrier
+        Effect: Creates a shield around a single ally, absorbing damage and reflecting a portion back to attackers.
+        Synergy: If the shield is broken, the affected ally gains a temporary damage boost.
+	Cooldown: Short
+
+    Ability 3: Healing Light
+        Effect: Heals all nearby allies over time, with a larger heal to the lowest health ally.
+        Synergy: Allies healed gain a short burst of increased movement speed, allowing for repositioning.
+	Cooldown: Long
+
+    Ability 4: Radiant Blessing
+        Effect: Grants a protective blessing to all allies, temporarily increasing their resistance to status effects and damage.
+        Synergy: Allies who take damage while blessed gain a temporary buff to their next attack, amplifying Thorn's Battle Cry.
+	Cooldown: Long	
+
+4. Kaelan the Wild Ranger
+
+Weapon: Bow and Arrow
+Default Attack: Piercing Shot – A precise shot that deals damage and has a chance to pierce through multiple enemies.
+Abilities:
+
+    Ability 1: Nature’s Grasp
+        Effect: Summons vines that ensnare enemies in an area, immobilizing them for a short time.
+        Synergy: Enemies caught in the vines take increased damage from Elysia’s Arcane Convergence.
+	Enemies killed in natures grasp increase the attack damage of beast companion.
+	Can root mini bosses but by half of regular root time.
+    	Cooldown: Short
+	
+    Ability 2: Beast Companion
+        Effect: Summons a spirit animal to fight alongside Kaelan, attacking enemies and drawing aggro.
+        Synergy: The spirit animal provides a damage boost to Thorn and enhances Seraphina’s Healing Light, allowing her to heal both Kaelan and his companion simultaneously.
+	Cooldown: Short
+ 
+    Ability 3: Shadow Step
+        Effect: Kaelan becomes briefly invisible and gains increased movement speed, allowing for quick repositioning or escape.
+        Synergy: After reappearing, his next attack deals bonus damage based on the distance traveled during invisibility.
+	Cooldown: Medium
+
+    Ability 4: Storm of Arrows
+        Effect: Fires a volley of arrows in a targeted area, dealing area-of-effect damage to all enemies.
+        Synergy: If used in conjunction with Elysia’s Temporal Distortion, arrows deal extra damage and have a chance to slow affected enemies further.
+	Cooldown: Long
