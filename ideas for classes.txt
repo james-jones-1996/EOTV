@@ -26,7 +26,7 @@ Classes
     3 light, 3 medium, 3 heavy
     Slight increase in speed based on how light class is.
 
-Gameplay
+MMO Gameplay
     Open world
     Focus on PvE
     Borderlands style progression, everyone can join your for your progression, but only them progressing themselves progresses the game
@@ -47,7 +47,14 @@ Gameplay
         Gliding to negate fall damage
     At reaching max rank you can have 1 ability from a different class.
 
-
+EOTV: DUNGEON
+	Procedurally generated dungeons with 2 dungeons that are always the same. Those two have jump puzzles.
+	4 Characters with 4 abilities each, slay enemies, kill boss, open treasure chest at the end.
+	Each weapon has 1 or 2 combos.
+	Each run is timed, try to beat your previous time.
+	Must play with others in order for team synergy to be @ max. ideally dps/cc/tank/healer
+	however most content can be completed with just healer/tank/cc 
+	
 
 Classes
     Heavy Armor Classes
@@ -244,6 +251,7 @@ Abilities:
     Ability 2: Beast Companion
         Effect: Summons a spirit animal to fight alongside Kaelan, attacking enemies and drawing aggro.
         Synergy: The spirit animal provides a damage boost to Thorn and enhances Seraphina’s Healing Light, allowing her to heal both Kaelan and his companion simultaneously.
+	Kills from beast contribute to shortening cooldown of storm of arrows.
 	Cooldown: Short
  
     Ability 3: Shadow Step
